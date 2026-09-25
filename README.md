@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/SIDDOP1/LeetCode/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/SIDDOP1/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 ## Math
 |  |
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SIDDOP1/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SIDDOP1/LeetCode/tree/master/0010-regular-expression-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/SIDDOP1/LeetCode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
